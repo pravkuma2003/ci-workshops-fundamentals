@@ -3,6 +3,6 @@ vlans:
   - 10:
     name: Ten
   - 20:
-    name: Twenty
+    name: Twenty20
   - 30:
     name: Thirty
